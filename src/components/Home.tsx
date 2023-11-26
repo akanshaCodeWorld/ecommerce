@@ -53,7 +53,7 @@ const Home: React.FC = () => {
 
       <div className="bg-gray-200 p-8">
         <div className="max-w-3xl mx-auto">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">About Us</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">About us</h2>
           <p className="text-gray-600">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
             incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
